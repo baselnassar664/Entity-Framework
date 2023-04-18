@@ -1,0 +1,59 @@
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\Entity Framework.csproj.AssemblyReference.cache
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\Entity Framework.AssemblyInfoInputs.cache
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\Entity Framework.AssemblyInfo.cs
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\Entity Framework.csproj.CoreCompileInputs.cache
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\Entity Framework.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\refint\Entity Framework.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\Entity Framework.pdb
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Entity Framework.exe
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Entity Framework.deps.json
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Entity Framework.runtimeconfig.json
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Entity Framework.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Entity Framework.pdb
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Humanizer.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\Entity Framework.csproj.CopyComplete
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\Entity Framework.genruntimeconfig.cache
+E:\دبلومة asp مصر\احمد خالد\06 Entity Framework\Entity Framework\Entity Framework\obj\Debug\net6.0\ref\Entity Framework.dll
